@@ -4,6 +4,10 @@
 
 This repository contains my final submission for CS-255: System Analysis & Design. The artifacts are a complete Business Requirements Document and a Software Design Document for DriverPass, a cloud-based scheduling and management platform designed for a DMV test prep company. This project involved defining user roles, understanding user needs, and developing a scalable web application from a user-centered standpoint that will replace manual spreadsheets and manual scheduling. Together, the submitted documents represent my ability to develop, organize, and convey workable software solutions that meet operational specifications and technical requirements.
 
+📄 [View Business Requirements Document (PDF)](Business_Requirements_Document.pdf)
+📄 [View System Design Document (PDF)](System_Design_Document.pdf)
+
+
 ## Reflection
 
 One of my strengths in this project was how clearly I articulated the user roles and needs during the business requirements stage. I broke the functionality down by how each user role interacts with the system: student, secretary, administrator, and manager. My structure helped me stay focused in the design phase and ensured that I did not forget about the experience behind the technology. Once I had a clear picture of the user needs, I was able to convert those into functional and non-functional requirements. I believe this clarity helped me lay a solid platform for the rest of the project. I approached the requirements like blueprints for a working system that a real-world business could implement.
